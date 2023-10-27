@@ -1,0 +1,16 @@
+.buttonform {
+    background-color: purple;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 15px 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    width: 45%;
+}
+
+.buttonform:hover {
+    background-color: rgb(77, 5, 77);
+    transition: .7s;
+    cursor: pointer;
+}
